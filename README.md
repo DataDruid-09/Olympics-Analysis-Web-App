@@ -2,25 +2,26 @@
 
 This project is an interactive web application that provides in-depth analysis of the Olympic Games from 1896 to 2016. It uses data visualization and statistical techniques to explore medal tallies, country performance, and athlete achievements. The application is built with Streamlit and can be run locally.
 
-** 🚀 Features **
+<h2>🚀 Features </h2>
 
-📊 Medal Tally – View medal counts across years and countries.
+<h3>📊 Medal Tally</h3> – View medal counts across years and countries.
 
-🌍 Overall Analysis – Explore trends in Olympic history (athletes, events, sports).
+<h3>🌍 Overall Analysis</h3> – Explore trends in Olympic history (athletes, events, sports).
 
-🇨🇳 Country-wise Analysis – Track performance of specific countries over time.
+<h3>🇨🇳 Country-wise Analysis</h3> – Track performance of specific countries over time.
 
-🏃 Athlete-wise Analysis – Analyze athletes’ performances and career spans.
+<h3>🏃 Athlete-wise Analysis</h3> – Analyze athletes’ performances and career spans.
 
-📈 Dynamic Visualizations using Matplotlib, Seaborn, and Plotly Express.
+<h3>📈 Dynamic Visualizations</h3> - Matplotlib, Seaborn, and Plotly Express.
 
-🛠️ Tech Stack
 
-IDE: PyCharm 🖥️
+<h2>🛠️ Tech Stack</h2>
 
-Framework: Streamlit
+<h3>IDE:</h3> PyCharm 🖥️
 
-Libraries:
+<h3>Framework:</h3> Streamlit
+
+<h3>Libraries:</h3>
 
 NumPy, Pandas (Data Handling)
 
@@ -30,7 +31,7 @@ Matplotlib, Seaborn (Data Visualization)
 
 Plotly Express (Interactive Charts)
 
-📂 Project Structure
+<h2>📂 Project Structure</h2>
 
 ├── data/                     # Dataset from Kaggle (1896–2016 Olympics)
 ├── app.py                    # Main Streamlit application
@@ -38,41 +39,41 @@ Plotly Express (Interactive Charts)
 ├── requirements.txt          # Dependencies
 └── README.md                 # Project Documentation
 
-⚙️ Installation & Usage
+<h2>⚙️ Installation & Usage</h2>
 
-1️⃣ Clone the Repository
+<h4>1️⃣ Clone the Repository</h4>
 git clone https://github.com/your-username/Olympic-Analysis-Web-App.git
 cd Olympic-Analysis-Web-App
 
-2️⃣ Install Dependencies
+<h4>2️⃣ Install Dependencies</h4>
 
 Make sure you have Python 3.7+ installed. Then run:
 pip install -r requirements.txt
 
-3️⃣ Run the App
+<h4>3️⃣ Run the App</h4>
 streamlit run app.py
 
-📊 Dataset
+<h2>📊 Dataset</h2>
 
-Source: Kaggle – 120 years of Olympic history
+<h4>Source:</h4> Kaggle – 120 years of Olympic history
 
-link : https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
+<h4>link :</h4> https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
 
-Coverage: Summer & Winter Olympics (1896–2016)
+<h4>Coverage:</h4> Summer & Winter Olympics (1896–2016)
 
 
+<h3>📈 Example Analysis in the App</h3>
 
-📈 Example Analysis in the App
+<h4>🥇 Medal Tally:</h4> Top countries across Olympics.
 
-🥇 Medal Tally: Top countries across Olympics.
+<h4>📉 Overall Trends:</h4> Participation growth in athletes & events.
 
-📉 Overall Trends: Participation growth in athletes & events.
+<h4>🌎 Country Analysis:</h4> Medal dominance across time periods.
 
-🌎 Country Analysis: Medal dominance across time periods.
+<h4>👟 Athlete Insights:</h4> Age distribution, Male vs Female.
 
-👟 Athlete Insights: Age distribution, Male vs Female.
 
-🤝 Contributing
+<h3>🤝 Contributing</h3>
 
 Contributions are welcome!
 
@@ -86,11 +87,11 @@ Push to branch
 
 Open a Pull Request
 
-📜 License
+<h3>📜 License</h3>
 
 This project is licensed under the MIT License.
 
-👨‍💻 Author
+<h3>👨‍💻 Author</h3>
 
 Data-Druid09
 
