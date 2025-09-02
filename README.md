@@ -2,7 +2,7 @@
 
 This project is an interactive web application that provides in-depth analysis of the Olympic Games from 1896 to 2016. It uses data visualization and statistical techniques to explore medal tallies, country performance, and athlete achievements. The application is built with Streamlit and can be run locally.
 
-🚀 Features
+** 🚀 Features **
 
 📊 Medal Tally – View medal counts across years and countries.
 
